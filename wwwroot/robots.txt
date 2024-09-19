@@ -1,0 +1,5 @@
+﻿User-agent: *
+Allow: /
+
+Sitemap: https://www.towingserviceindallas.com/sitemap.xml
+Sitemap: https://www.towingserviceindallas.com/geositemap.xml
