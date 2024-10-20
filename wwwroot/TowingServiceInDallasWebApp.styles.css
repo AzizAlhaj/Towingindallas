@@ -47,3 +47,52 @@ button.accept-policy[b-xts5r2n29n] {
   white-space: nowrap;
   line-height: 60px;
 }
+/* _content/TowingServiceInDallasWebApp/Views/Shared/_LayoutOurServiceArea.cshtml.rz.scp.css */
+/* Please see documentation at https://learn.microsoft.com/aspnet/core/client-side/bundling-and-minification
+for details on configuring this project to bundle and minify static web assets. */
+
+a.navbar-brand[b-ixmdp82irt] {
+  white-space: normal;
+  text-align: center;
+  word-break: break-all;
+}
+
+a[b-ixmdp82irt] {
+  color: #0077cc;
+}
+
+.btn-primary[b-ixmdp82irt] {
+  color: #fff;
+  background-color: #1b6ec2;
+  border-color: #1861ac;
+}
+
+.nav-pills .nav-link.active[b-ixmdp82irt], .nav-pills .show > .nav-link[b-ixmdp82irt] {
+  color: #fff;
+  background-color: #1b6ec2;
+  border-color: #1861ac;
+}
+
+.border-top[b-ixmdp82irt] {
+  border-top: 1px solid #e5e5e5;
+}
+.border-bottom[b-ixmdp82irt] {
+  border-bottom: 1px solid #e5e5e5;
+}
+
+.box-shadow[b-ixmdp82irt] {
+  box-shadow: 0 .25rem .75rem rgba(0, 0, 0, .05);
+}
+
+button.accept-policy[b-ixmdp82irt] {
+  font-size: 1rem;
+  line-height: inherit;
+}
+
+.footer[b-ixmdp82irt] {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  white-space: nowrap;
+  line-height: 60px;
+}

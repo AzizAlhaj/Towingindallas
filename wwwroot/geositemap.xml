@@ -50,4 +50,34 @@
 		<changefreq>monthly</changefreq>
 		<priority>0.7</priority>
 	</url>
+	<url>
+		<loc>https://www.towingserviceindallas.com/LancasterTowing</loc>
+		<geo:geo>
+			<geo:lat>32.5852</geo:lat>
+			<geo:long>-96.7341</geo:long>
+		</geo:geo>
+		<lastmod>2024-10-20</lastmod>
+		<changefreq>daily</changefreq>
+		<priority>0.8</priority>
+	</url>
+	<url>
+		<loc>https://www.towingserviceindallas.com/EnnisTowing</loc>
+		<geo:geo>
+			<geo:lat>32.3200</geo:lat>
+			<geo:long>-96.6172</geo:long>
+		</geo:geo>
+		<lastmod>2024-10-20</lastmod>
+		<changefreq>daily</changefreq>
+		<priority>0.8</priority>
+	</url>
+	<url>
+		<loc>https://www.towingserviceindallas.com/WaxahachieTowing</loc>
+		<geo:geo>
+			<geo:lat>32.3851</geo:lat>
+			<geo:long>-96.8489</geo:long>
+		</geo:geo>
+		<lastmod>2024-10-20</lastmod>
+		<changefreq>daily</changefreq>
+		<priority>0.8</priority>
+	</url>
 </urlset>

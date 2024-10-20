@@ -36,4 +36,23 @@
 		<changefreq>monthly</changefreq>
 		<priority>0.8</priority>
 	</url>
+	
+	<url>
+		<loc>https://www.towingserviceindallas.com/LancasterTowing</loc>
+		<lastmod>2024-10-20</lastmod>
+		<changefreq>daily</changefreq>
+		<priority>0.8</priority>
+	</url>
+	<url>
+		<loc>https://www.towingserviceindallas.com/EnnisTowing</loc>
+		<lastmod>2024-10-20</lastmod>
+		<changefreq>daily</changefreq>
+		<priority>0.8</priority>
+	</url>
+	<url>
+		<loc>https://www.towingserviceindallas.com/WaxahachieTowing</loc>
+		<lastmod>2024-10-20</lastmod>
+		<changefreq>daily</changefreq>
+		<priority>0.8</priority>
+	</url>
 </urlset>
